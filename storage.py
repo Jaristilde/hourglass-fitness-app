@@ -1,3 +1,12 @@
+# Copyright © 2024-2025 [YOUR NAME]. All Rights Reserved.
+#
+# PROPRIETARY AND CONFIDENTIAL
+#
+# This file is part of Hourglass Fitness Transformation application.
+# Unauthorized copying, distribution, or modification of this file,
+# via any medium, is strictly prohibited.
+#
+# Contact: [your-email@example.com]
 # storage.py
 from __future__ import annotations
 import json
