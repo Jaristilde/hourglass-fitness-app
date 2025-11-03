@@ -1,7 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Database
+*.db
+data.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Media files
 videos/
 uploaded_content/
-.streamlit/secrets.toml
 coach_photo.jpg
 *.mp4
 *.mov
 *.m4v
+
+# Streamlit secrets
+.streamlit/secrets.toml
